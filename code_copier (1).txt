@@ -1,0 +1,2 @@
+python recognize_faces_image.py -e aug30.pickle -y 1 -d hog
+python encode_faces.py -i dataset -e aug30.pickle -d hog
